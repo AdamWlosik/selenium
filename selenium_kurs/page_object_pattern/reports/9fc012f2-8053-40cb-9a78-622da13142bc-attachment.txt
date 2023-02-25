@@ -1,0 +1,17 @@
+[32mINFO    [0m WDM:logger.py:11 ====== WebDriver manager ======
+[32mINFO    [0m WDM:logger.py:11 Get LATEST chromedriver version for google-chrome 108.0.5359
+[32mINFO    [0m WDM:logger.py:11 Driver [C:\Users\adamw\.wdm\drivers\chromedriver\win32\108.0.5359\chromedriver.exe] found in cache
+[32mINFO    [0m page_object_pattern.pages.search_hotel:search_hotel.py:24 Setting city Dubai
+[32mINFO    [0m page_object_pattern.pages.search_hotel:search_hotel.py:32 Setting 31/12/2022 and 31/01/2023
+[32mINFO    [0m page_object_pattern.pages.search_hotel:search_hotel.py:39 Setting adults - 4 and child - 2
+[32mINFO    [0m page_object_pattern.pages.search_hotel:search_hotel.py:48 Performing search
+[32mINFO    [0m page_object_pattern.pages.search_results:search_results.py:19 Available hotels are: 
+[32mINFO    [0m page_object_pattern.pages.search_results:search_results.py:22 Jumeirah Beach Hotel
+[32mINFO    [0m page_object_pattern.pages.search_results:search_results.py:22 Oasis Beach Tower
+[32mINFO    [0m page_object_pattern.pages.search_results:search_results.py:22 Rose Rayhaan Rotana
+[32mINFO    [0m page_object_pattern.pages.search_results:search_results.py:22 Hyatt Regency Perth
+[32mINFO    [0m page_object_pattern.pages.search_results:search_results.py:29 Prices are: 
+[32mINFO    [0m page_object_pattern.pages.search_results:search_results.py:31 $22
+[32mINFO    [0m page_object_pattern.pages.search_results:search_results.py:31 $50
+[32mINFO    [0m page_object_pattern.pages.search_results:search_results.py:31 $80
+[32mINFO    [0m page_object_pattern.pages.search_results:search_results.py:31 $150
